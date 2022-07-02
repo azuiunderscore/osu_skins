@@ -9,13 +9,14 @@ rainbow instafades (these are an edit of the rustbell rainbows, to give them a m
 ![blinding_eclipse_rainbowinstafades](https://osu.ppy.sh/ss/17941971/1173)
 there are more options but I don't really use them and I'm lazy so you'll have to look yourself
 
-# azui_2021_2
-yeah part 2
-![azui_2021_2](https://osu.ppy.sh/ss/17941954/1edd)
-
 # 2021_azui
 I didn't really name these that well back in 2021 
 ![2021_azui](https://osu.ppy.sh/ss/17941960/abef)
+
+# azui_2021_2
+yeah 
+![azui_2021_2](https://osu.ppy.sh/ss/17941954/1edd)
+
 
 # azui_2021 
 yeah
